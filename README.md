@@ -14,7 +14,7 @@ Objetivo O Forum Hub é um projeto que busca criar um fórum de discussão no es
 
 4. Segurança com autenticação e autorização: Apenas usuários autenticados e autorizados poderão acessar ou alterar dados. Será utilizado JWT (JSON Web Token) para proteger as operações. 
 
-***Tecnologias Utilizadas ***
+***Tecnologias Utilizadas***
 pring Framework: Base do desenvolvimento da API REST. Banco de Dados Relacional: Para armazenar e recuperar os dados do sistema. JWT: Para gerenciar a autenticação e autorização dos usuários. 
 
 ***Estrutura do Projeto***
